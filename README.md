@@ -18,14 +18,16 @@ Fast, reliable, and verified file copying for professionals.
 
 ## 📥 Download Latest Version
 
+**[→ View All Releases and Download](https://github.com/silkrockgmbh/multiplier-pro-updates/releases/latest)**
+
 Get the latest version of Multiplier Pro for your platform:
 
 ### Windows
-- [**Download for Windows (x64)**](https://github.com/silkrockgmbh/multiplier-pro-updates/releases/latest/download/Multiplier.Pro_x64_en-US.msi.zip)
+- Download the `.msi.zip` file (e.g., `Multiplier Pro_1.0.5_x64_en-US.msi.zip`)
 
 ### macOS
-- [**Download for macOS (Apple Silicon - M1/M2/M3)**](https://github.com/silkrockgmbh/multiplier-pro-updates/releases/latest/download/Multiplier.Pro_aarch64.dmg)
-- [**Download for macOS (Intel)**](https://github.com/silkrockgmbh/multiplier-pro-updates/releases/latest/download/Multiplier.Pro_x64.dmg)
+- **Apple Silicon (M1/M2/M3)**: Download the `aarch64.dmg` file
+- **Intel**: Download the `x64.dmg` file
 
 > **⚠️ IMPORTANT - macOS Users:**
 > 
@@ -46,7 +48,8 @@ Get the latest version of Multiplier Pro for your platform:
 > This removes the quarantine flag that macOS applies to downloaded applications.
 
 ### Linux
-- [**Download for Linux (AppImage)**](https://github.com/silkrockgmbh/multiplier-pro-updates/releases/latest)
+- Download the `.AppImage.tar.gz` file (e.g., `multiplier-pro_1.0.5_amd64.AppImage.tar.gz`)
+- Extract and run the AppImage
 
 ---
 
