@@ -1,4 +1,4 @@
-# Multiplier Pro - Auto-Updates
+# SILKROCK Multiplier Pro
 
 <div align="center">
 
