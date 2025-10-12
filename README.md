@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Multiplier Pro Logo](https://via.placeholder.com/200x200/7C3AED/FFFFFF?text=Multiplier+Pro)
+<img src="assets/SILKROCK-LOGO-PURPLE.png" alt="Silkrock Logo" width="400">
 
 **Professional File Transfer Suite**
 
@@ -26,6 +26,24 @@ Get the latest version of Multiplier Pro for your platform:
 ### macOS
 - [**Download for macOS (Apple Silicon - M1/M2/M3)**](https://github.com/silkrockgmbh/multiplier-pro-updates/releases/latest/download/Multiplier.Pro_aarch64.dmg)
 - [**Download for macOS (Intel)**](https://github.com/silkrockgmbh/multiplier-pro-updates/releases/latest/download/Multiplier.Pro_x64.dmg)
+
+> **⚠️ IMPORTANT - macOS Users:**
+> 
+> macOS may block the app on first launch due to Gatekeeper security. If the app won't open:
+> 
+> **Option 1 - Right-click method (Recommended):**
+> 1. Right-click (or Control+click) on **Multiplier Pro.app** in your Applications folder
+> 2. Select **Open** from the menu
+> 3. Click **Open** in the dialog that appears
+> 
+> **Option 2 - Remove quarantine attribute (Advanced):**
+> 
+> Open Terminal and run:
+> ```bash
+> xattr -cr /Applications/Multiplier\ Pro.app
+> ```
+> 
+> This removes the quarantine flag that macOS applies to downloaded applications.
 
 ### Linux
 - [**Download for Linux (AppImage)**](https://github.com/silkrockgmbh/multiplier-pro-updates/releases/latest)
@@ -84,7 +102,7 @@ Get the latest version of Multiplier Pro for your platform:
 1. Download the `.dmg` file for your Mac (Apple Silicon or Intel)
 2. Open the `.dmg` file
 3. Drag **Multiplier Pro** to your Applications folder
-4. First launch: Right-click the app and select "Open" to bypass Gatekeeper
+4. **Important**: See the macOS security warning above for first-time launch instructions
 
 ### Linux
 1. Download the `.AppImage` file
